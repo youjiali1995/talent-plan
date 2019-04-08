@@ -4,7 +4,7 @@ extern crate prost_derive;
 extern crate labrpc;
 
 // After you finish the implementation, `#[allow(unused)]` should be removed.
-#[allow(dead_code, unused)]
+#[allow(dead_code)]
 mod client;
 #[allow(unused)]
 mod server;
